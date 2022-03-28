@@ -1,12 +1,12 @@
-#Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+# Learning Objectives
+- At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-##General
-What are pointers to pointers and how to use them
-What are multidimensional arrays and how to use them
-What are the most common C standard library functions to manipulate strings
-#Requirements
-##General
+## General
+- What are pointers to pointers and how to use them
+- What are multidimensional arrays and how to use them
+- What are the most common C standard library functions to manipulate strings
+ #Requirements
+## General
 - Allowed editors: vi, vim, emacs
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 - All your files should end with a new line
